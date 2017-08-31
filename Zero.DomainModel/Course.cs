@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zero.DomainModel
 {
-	class Course : BaseEntity
+	public class Course : BaseEntity
 	{
 	}
 }

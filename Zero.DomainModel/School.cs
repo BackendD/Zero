@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zero.DomainModel
 {
-	class School : BaseEntity
+	public class School : BaseEntity
 	{
 		public int Code { get; set; }
 		public string Name { get; set; }
